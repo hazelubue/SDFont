@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/sdfont_demo.dir/link.d CMakeFiles/sdfont_demo.dir/src_demo/demo.cpp.o -o sdfont_demo  libsdfont_rt.a /usr/lib/libGLEW.so /usr/lib/libglfw.so.3.4 -lOpenGL /usr/lib/libpng.so /usr/lib/libz.so -lOpenGL

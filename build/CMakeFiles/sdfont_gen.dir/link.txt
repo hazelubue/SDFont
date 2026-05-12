@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsdfont_gen.a CMakeFiles/sdfont_gen.dir/src_lib_generator/free_type_utilities.cpp.o CMakeFiles/sdfont_gen.dir/src_lib_generator/generator.cpp.o CMakeFiles/sdfont_gen.dir/src_lib_generator/generator_config.cpp.o CMakeFiles/sdfont_gen.dir/src_lib_generator/generator_option_parser.cpp.o CMakeFiles/sdfont_gen.dir/src_lib_generator/internal_glyph_for_generator.cpp.o CMakeFiles/sdfont_gen.dir/src_lib_generator/internal_glyph_thread_driver.cpp.o CMakeFiles/sdfont_gen.dir/src_lib_generator/png_loader.cpp.o
+/usr/bin/ranlib libsdfont_gen.a

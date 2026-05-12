@@ -1,0 +1,6 @@
+/home/hazel/Documents/sdfFont/SDFont/build/CMakeFiles/sdfont_gen.dir
+/home/hazel/Documents/sdfFont/SDFont/build/CMakeFiles/sdfont_commandline.dir
+/home/hazel/Documents/sdfFont/SDFont/build/CMakeFiles/sdfont_rt.dir
+/home/hazel/Documents/sdfFont/SDFont/build/CMakeFiles/sdfont_demo.dir
+/home/hazel/Documents/sdfFont/SDFont/build/CMakeFiles/edit_cache.dir
+/home/hazel/Documents/sdfFont/SDFont/build/CMakeFiles/rebuild_cache.dir

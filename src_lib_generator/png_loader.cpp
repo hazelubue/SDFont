@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include <string>
+#include <cstring>
 #include <png.h>
 
 #include "sdfont/generator/png_loader.hpp"

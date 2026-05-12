@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsdfont_rt.a CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/runtime_helper.cpp.o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/metrics_parser.cpp.o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/texture_loader.cpp.o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/shader_manager.cpp.o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/vanilla_shader_manager.cpp.o
+/usr/bin/ranlib libsdfont_rt.a

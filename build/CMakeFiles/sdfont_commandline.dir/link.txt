@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/sdfont_commandline.dir/link.d CMakeFiles/sdfont_commandline.dir/src_commandline/generator.cpp.o -o sdfont_commandline  libsdfont_gen.a /usr/lib/libfreetype.so /usr/lib/libpng.so /usr/lib/libz.so

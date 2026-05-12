@@ -9,6 +9,9 @@
 #include <vector>
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
+
+#define GLM_ENABLE_EXPERIMENTAL
+
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/quaternion.hpp>
@@ -22,7 +25,8 @@
 #include "sdfont/runtime_helper/runtime_helper.hpp"
 #include "sdfont/runtime_helper/vanilla_shader_manager.hpp"
 
-#include "utfcpp/utf8.h"
+#include "/home/hazel/Documents/sdfFont/SDFont/ext_dep/utfcpp//utf8.h"
+
 
 using namespace std;
 

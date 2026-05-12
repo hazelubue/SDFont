@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/usr/include/freetype2 -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_gen.dir/src_lib_generator/free_type_utilities.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_generator/free_type_utilities.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_generator/free_type_utilities.cpp",
+  "output": "CMakeFiles/sdfont_gen.dir/src_lib_generator/free_type_utilities.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/usr/include/freetype2 -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_gen.dir/src_lib_generator/generator.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_generator/generator.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_generator/generator.cpp",
+  "output": "CMakeFiles/sdfont_gen.dir/src_lib_generator/generator.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/usr/include/freetype2 -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_gen.dir/src_lib_generator/generator_config.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_generator/generator_config.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_generator/generator_config.cpp",
+  "output": "CMakeFiles/sdfont_gen.dir/src_lib_generator/generator_config.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/usr/include/freetype2 -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_gen.dir/src_lib_generator/generator_option_parser.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_generator/generator_option_parser.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_generator/generator_option_parser.cpp",
+  "output": "CMakeFiles/sdfont_gen.dir/src_lib_generator/generator_option_parser.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/usr/include/freetype2 -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_gen.dir/src_lib_generator/internal_glyph_for_generator.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_generator/internal_glyph_for_generator.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_generator/internal_glyph_for_generator.cpp",
+  "output": "CMakeFiles/sdfont_gen.dir/src_lib_generator/internal_glyph_for_generator.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/usr/include/freetype2 -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_gen.dir/src_lib_generator/internal_glyph_thread_driver.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_generator/internal_glyph_thread_driver.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_generator/internal_glyph_thread_driver.cpp",
+  "output": "CMakeFiles/sdfont_gen.dir/src_lib_generator/internal_glyph_thread_driver.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/usr/include/freetype2 -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_gen.dir/src_lib_generator/png_loader.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_generator/png_loader.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_generator/png_loader.cpp",
+  "output": "CMakeFiles/sdfont_gen.dir/src_lib_generator/png_loader.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/usr/include/freetype2 -I/home/hazel/Documents/sdfFont/SDFont/include -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_commandline.dir/src_commandline/generator.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_commandline/generator.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_commandline/generator.cpp",
+  "output": "CMakeFiles/sdfont_commandline.dir/src_commandline/generator.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/runtime_helper.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/runtime_helper.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/runtime_helper.cpp",
+  "output": "CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/runtime_helper.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/metrics_parser.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/metrics_parser.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/metrics_parser.cpp",
+  "output": "CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/metrics_parser.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/texture_loader.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/texture_loader.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/texture_loader.cpp",
+  "output": "CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/texture_loader.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/shader_manager.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/shader_manager.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/shader_manager.cpp",
+  "output": "CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/shader_manager.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -I/home/hazel/Documents/sdfFont/SDFont/ext_dep -O3 -DNDEBUG -o CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/vanilla_shader_manager.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/vanilla_shader_manager.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_lib_runtime_helper/vanilla_shader_manager.cpp",
+  "output": "CMakeFiles/sdfont_rt.dir/src_lib_runtime_helper/vanilla_shader_manager.cpp.o"
+},
+{
+  "directory": "/home/hazel/Documents/sdfFont/SDFont/build",
+  "command": "/usr/bin/c++  -I/home/hazel/Documents/sdfFont/SDFont/include -O3 -DNDEBUG -o CMakeFiles/sdfont_demo.dir/src_demo/demo.cpp.o -c /home/hazel/Documents/sdfFont/SDFont/src_demo/demo.cpp",
+  "file": "/home/hazel/Documents/sdfFont/SDFont/src_demo/demo.cpp",
+  "output": "CMakeFiles/sdfont_demo.dir/src_demo/demo.cpp.o"
+}
+]
